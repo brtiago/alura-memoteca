@@ -1,27 +1,54 @@
-# Memoteca
+<h1 align="center">
+    <img src="/src/assets/imagens/logo-memoteca.png" alt="Memoteca logo" />
+  📝 Memoteca
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=Linkedin&message=@tgribeiro&color=8257E5&labelColor=000000" alt="@tgribeiro" />
+ <img src="https://img.shields.io/static/v1?label=Tipo&message=Estudo&color=8257E5&labelColor=000000" alt="Estudo" />
+ <img src="https://img.shields.io/static/v1?label=Framework&message=Angular&color=8257E5&labelColor=000000" alt="Angular" />
+ 
+</p>
 
-## Development server
+## 💻 Sobre o projeto
+Este é um projeto de estudo gerado a partir do curso Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD - ALURA.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🎯 Objetivo
+* Utilizar a ferramenta Angular CLI para criar um projeto e diversos tipos de arquivos
+* Entender a estrutura de um componente em Angular
+* Aprender como usar property binding, interpolação, event binding e two-way data binding
+* Conhecer algumas das principais diretivas do Angular
+* Adicionar navegação dinâmica entre componentes através das rotas
+* Aplicar injeção de dependências na aplicação
+* Realizar requisições HTTP através da classe HttpClient e desenvolva um CRUD
 
-## Code scaffolding
+## 🛠 Tecnologias
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+As seguintes tecnologias foram utilizadas no projeto:
 
-## Build
+- **[Angular 17](https://angular.io/)**
+- **[VSCodium](https://vscodium.com/)** - Free/Libre Open Source Software Binaries of VS Code
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Prerequisitos
 
-## Running unit tests
+- Instale o [Node.js](https://nodejs.org/) que já vem com o  [Node Package Manager](https://www.npmjs.com/) incluso.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Como rodar o projeto?
+#### Clone o repositório
 
-## Running end-to-end tests
+Certifique-se de ter o Node.js instalado.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```sh
+git clone https://github.com/brtiago/alura-memoteca
+```
 
-## Further help
+#### Instale as dependências
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```sh
+npm i
+```
+
+#### Rode o servidor
+```sh
+ng serve
+```
