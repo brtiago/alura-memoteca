@@ -1,6 +1,5 @@
 <h1 align="center">
     <img src="/src/assets/imagens/logo-memoteca.png" alt="Memoteca logo" />
-  📝 Memoteca
 </h1>
 
 <p align="center">
