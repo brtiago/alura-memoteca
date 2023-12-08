@@ -11,6 +11,7 @@
 
 ## 💻 Sobre o projeto
 Este é um projeto de estudo gerado a partir do curso Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD - ALURA.
+<img src="/src/assets/imagens/Screenshot 2023-12-08 at 14-21-45 Memoteca.png" alt="Memoteca logo" />
 
 ## 🎯 Objetivo
 * Utilizar a ferramenta Angular CLI para criar um projeto e diversos tipos de arquivos
