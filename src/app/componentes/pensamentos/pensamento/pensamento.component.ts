@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-pensamento',
@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrl: './pensamento.component.scss'
 })
 export class PensamentoComponent {
+
+  pensamento = {
+    conteudo: 'I love angular',
+    autoria: 'Tiago',
+    modelo: 'modelo3'
+  }
 
 }
